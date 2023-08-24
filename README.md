@@ -29,8 +29,8 @@
 
 ## 範例演示
 
-<img src="pic/video.gif" alt="anime" width="600">
-<img src="pic/example.jpg" alt="anime" width="600">
+<img src="pic/video.gif" width="600">
+<img src="pic/example.jpg" width="600">
 
 ## 執行要求
 
@@ -62,31 +62,31 @@
 
 1. 開啟您的網頁瀏覽器，前往[巨匠直播教學官網](https://www.pcschoolonline.com.tw/)。
 
-    <img src="pic/step1.jpg" alt="anime" width="400">
+    <img src="pic/step1.jpg" width="400">
 
 2. 在網站上使用您的登入帳號和密碼進行登入，確保您已成功登入您的帳號。
 
-    <img src="pic/step2.jpg" alt="anime" width="400">
+    <img src="pic/step2.jpg" width="400">
 
 3. 點擊網站上的「`課程檔案下載`」選項。
 
-    <img src="pic/step3.jpg" alt="anime" width="400">
+    <img src="pic/step3.jpg" width="400">
 
 4. 從可用的下載選項中選擇要下載的「`錄影檔`」。
 
-    <img src="pic/step4.jpg" alt="anime" width="400">
+    <img src="pic/step4.jpg" width="400">
 
 5. 在選擇好下載項目後，暫時不要開始播放影片。請按下鍵盤上的`「F12`」按鍵，選擇「`Network`」（網路）選項，然後再選擇「`All`」（全部）。
 
-    <img src="pic/step5.jpg" alt="anime" width="400">
+    <img src="pic/step5.jpg" width="400">
 
 6. 接下來，請開始播放影片，但隨即暫停播放。在網路選項卡中，您將看到一些檔案，其標題會以「`.mp4`」結尾。這些就是您要下載的影片檔案。
 
-    <img src="pic/step6.jpg" alt="anime" width="800">
+    <img src="pic/step6.jpg" width="800">
 
 7. 雙擊後，選擇「`headers`」（標頭）選項。在詳細資訊中，您將看到「`General`」（一般）區塊。點擊該區塊以擴展它，您將看到「`Request URL`」（請求網址）。這個網址就是原始影片的位置。請將此網址複製以備使用。
 
-    <img src="pic/step7.jpg" alt="anime" width="800">
+    <img src="pic/step7.jpg" width="800">
 
 8. 如需下載多個錄影檔，請重複上述步驟，為每個欲下載的影片獲取相應的網址。
 
